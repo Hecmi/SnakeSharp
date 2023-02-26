@@ -1,0 +1,27 @@
+E:\dev\c#\Snake\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\dev\c#\Snake\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\dev\c#\Snake\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\dev\c#\Snake\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\dev\c#\Snake\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\emanuele-pc\e$\dev\c#\Snake\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\emanuele-pc\e$\dev\c#\Snake\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\emanuele-pc\e$\dev\c#\Snake\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\emanuele-pc\e$\dev\c#\Snake\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\emanuele-pc\e$\dev\c#\Snake\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\dev\c#\Snake\ConsoleApplication1\bin\Debug\System.Net.Http.dll
+E:\dev\c#\Snake\ConsoleApplication1\bin\Debug\System.Net.Http.xml
+\\emanuele-pc\e$\dev\c#\Snake\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

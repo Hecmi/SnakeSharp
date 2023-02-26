@@ -1,0 +1,184 @@
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\apple.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\apple2.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\center.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\grass - Copy6.jpg
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\grass.jpg
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\grass2.jpg
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\center.ico
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\hole.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\molehole1.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\molehole1.jpg
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\snake3.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\snake2.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\snake0.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\snake1.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\snake - Copy.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\snake.ico
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\snake.png
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\Snake.exe.config
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\Snake.exe
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\Snake.pdb
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\Newtonsoft.Json.dll
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\SharpDX.DirectInput.dll
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\SharpDX.dll
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\SharpDX.pdb
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\SharpDX.DirectInput.pdb
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\SharpDX.DirectInput.xml
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.Form1.resources
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.Keys.resources
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.Network.resources
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.exe
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.pdb
+\\emanuele-pc\e$\dev\c#\Snake 5.0\Snake\bin\Debug\Snake.exe.config
+\\emanuele-pc\e$\dev\c#\Snake 5.0\Snake\obj\Debug\Snake.exe
+\\emanuele-pc\e$\dev\c#\Snake 5.0\Snake\obj\Debug\Snake.pdb
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\Snake.exe.manifest
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\Snake.application
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.exe.manifest
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.application
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.Keys_.resources
+\\emanuele-pc\e$\dev\c#\Snake\Snake\bin\Debug\images\snake1 - Copia.png
+E:\dev\c#\Snake\Snake\obj\Debug\Snake.Form1.resources
+E:\dev\c#\Snake\Snake\obj\Debug\Snake.Keys_.resources
+E:\dev\c#\Snake\Snake\obj\Debug\Snake.Keys.resources
+E:\dev\c#\Snake\Snake\obj\Debug\Snake.Network.resources
+E:\dev\c#\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\dev\c#\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+E:\dev\c#\Snake\Snake\bin\Debug\Snake.exe.config
+\\emanuele-pc\e$\dev\c#\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\apple.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\apple2.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\center.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\grass - Copy6.jpg
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\grass.jpg
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\grass2.jpg
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\center.ico
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\hole.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\molehole1.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\molehole1.jpg
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\snake1 - Copia.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\snake3.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\snake2.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\snake0.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\snake1.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\snake - Copy.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\snake.ico
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\images\snake.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\Snake.exe.config
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\Snake.exe.manifest
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\Snake.application
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\Snake.exe
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\Snake.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\SharpDX.dll
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\SharpDX.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.Keys_.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.Keys.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.Network.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.exe.manifest
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.application
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.csproj.CopyComplete
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.exe
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\snakecs-code-r33\snakecs-code-r33\ snakecs-code\Snake\obj\Debug\Snake.images.frmColorPicker.resources
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\apple.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\apple2.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\center.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\grass - Copy6.jpg
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\grass.jpg
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\grass2.jpg
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\center.ico
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\hole.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\molehole1.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\molehole1.jpg
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\snake1 - Copia.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\snake3.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\snake2.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\snake0.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\snake1.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\snake - Copy.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\snake.ico
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\images\snake.png
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\Snake.exe.config
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\Snake.exe.manifest
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\Snake.application
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\Snake.exe
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\Snake.pdb
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\SharpDX.dll
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\SharpDX.pdb
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.images.frmColorPicker.resources
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.Keys_.resources
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.Keys.resources
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.Network.resources
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.exe.manifest
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.application
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.csproj.CopyComplete
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.exe
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.pdb
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\UIDC.dll
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\bin\Debug\MetroFramework.dll
+C:\Users\casti\Downloads\_snakecs-code-CODED\ snakecs-code\Snake\obj\Debug\Snake.xd.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\apple.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\apple2.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\center.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\grass - Copy6.jpg
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\grass.jpg
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\grass2.jpg
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\center.ico
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\hole.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\molehole1.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\molehole1.jpg
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\snake1 - Copia.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\snake3.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\snake2.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\snake0.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\snake1.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\snake - Copy.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\snake.ico
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\images\snake.png
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\Snake.exe.config
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\Snake.exe.manifest
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\Snake.application
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\Snake.exe
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\Snake.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\SharpDX.dll
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\SharpDX.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.images.frmColorPicker.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.Keys_.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.Keys.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.Network.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.xd.resources
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.exe.manifest
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.application
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.csproj.CopyComplete
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.exe
+C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.pdb
