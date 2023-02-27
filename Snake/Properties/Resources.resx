@@ -121,9 +121,6 @@
   <data name="grassNewBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\images\grassNewBackground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="grassNewBackground1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\grassNewBackground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="GrassBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\images\GrassBackground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -141,6 +138,9 @@
   </data>
   <data name="barra_Color" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\barra_Color.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snake_parte_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snake_parte_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="snake_parte_22" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\snake_parte_22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,10 +163,13 @@
   <data name="snake_parte_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\snake_parte_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="snake_parte_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\snake_parte_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="91508615924wmsyfjmbtmwmmk8jom6kr60e8dmzq6alqg4ll8tb1oqtyhehwkani0btlrjrc1pxl8e0cejq7mzljiado7xistlkrz5hc0rwlgon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\91508615924wmsyfjmbtmwmmk8jom6kr60e8dmzq6alqg4ll8tb1oqtyhehwkani0btlrjrc1pxl8e0cejq7mzljiado7xistlkrz5hc0rwlgon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grassNewBackground1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\grassNewBackground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1botones_snake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1botones_snake.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

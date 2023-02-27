@@ -357,6 +357,13 @@ namespace Snake
         {
             Save();
             ReadKeys();
+            MessageBox.Show("Se guardaron los controles");
+            this.Close();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
 
         //private void comboBox_SelectionChangeCommitted(object sender, EventArgs e)

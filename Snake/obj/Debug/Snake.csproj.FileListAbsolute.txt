@@ -182,3 +182,50 @@ C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interf
 C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.csproj.CopyComplete
 C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.exe
 C:\Users\LUIS CASANOVA\Dropbox (Anterior)\Mi PC (DESKTOP-P50TEI6)\Desktop\Interfaz_nuev_snake\Interfaz_nuev_snake\ snakecs-code\Snake\obj\Debug\Snake.pdb
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\apple.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\apple2.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\center.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\grass - Copy6.jpg
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\grass.jpg
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\grass2.jpg
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\center.ico
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\hole.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\molehole1.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\molehole1.jpg
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\snake1 - Copia.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\snake3.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\snake2.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\snake0.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\snake1.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\snake - Copy.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\snake.ico
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\images\snake.png
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\Snake.exe.config
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\Snake.exe.manifest
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\Snake.application
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\Snake.exe
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\Snake.pdb
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\MetroFramework.dll
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\SharpDX.dll
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\UIDC.dll
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\SharpDX.pdb
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.images.frmColorPicker.resources
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.Keys_.resources
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.Keys.resources
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.Network.resources
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.xd.resources
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.exe.manifest
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.application
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.csproj.CopyComplete
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.exe
+C:\Users\casti\OneDrive\Escritorio\Snake#\Snake\obj\Debug\Snake.pdb

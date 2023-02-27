@@ -50,9 +50,7 @@
             this.btnPlayWeb = new System.Windows.Forms.Button();
             this.cmbDifficulty = new System.Windows.Forms.ComboBox();
             this.panel_juego = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel_jugadores = new System.Windows.Forms.Panel();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
@@ -60,14 +58,6 @@
             this.checkBox12 = new System.Windows.Forms.CheckBox();
             this.checkBox11 = new System.Windows.Forms.CheckBox();
             this.checkBox10 = new System.Windows.Forms.CheckBox();
-            this.pbColorSnakeFour = new System.Windows.Forms.PictureBox();
-            this.pbColorSnakeThree = new System.Windows.Forms.PictureBox();
-            this.pbColorSnakeTwo = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pbColorSnakeOne = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.config_1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.panel4 = new UIDC.UI_ShadowPanel();
             this.panel3 = new UIDC.UI_ShadowPanel();
             this.panel2 = new UIDC.UI_ShadowPanel();
@@ -89,10 +79,25 @@
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.pbColorSnakeFour = new System.Windows.Forms.PictureBox();
+            this.pbColorSnakeThree = new System.Windows.Forms.PictureBox();
+            this.pbColorSnakeTwo = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pbColorSnakeOne = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.config_1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pnlSnakeOptions.SuspendLayout();
             this.panel_juego.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel_jugadores.SuspendLayout();
+            this.panel_score.SuspendLayout();
+            this.uI_ShadowPanel3.SuspendLayout();
+            this.uI_ShadowPanel2.SuspendLayout();
+            this.uI_ShadowPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeFour)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeThree)).BeginInit();
@@ -102,12 +107,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.config_1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            this.panel_score.SuspendLayout();
-            this.uI_ShadowPanel3.SuspendLayout();
-            this.uI_ShadowPanel2.SuspendLayout();
-            this.uI_ShadowPanel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnNewGame
@@ -355,20 +355,6 @@
             this.panel_juego.Size = new System.Drawing.Size(1141, 523);
             this.panel_juego.TabIndex = 31;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.pictureBox1.BackgroundImage = global::Snake.Properties.Resources.grassNewBackground1;
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1141, 523);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
-            this.pictureBox1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseClick);
-            // 
             // panel_jugadores
             // 
             this.panel_jugadores.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(87)))), ((int)(((byte)(0)))));
@@ -397,19 +383,6 @@
             this.panel_jugadores.Name = "panel_jugadores";
             this.panel_jugadores.Size = new System.Drawing.Size(1323, 94);
             this.panel_jugadores.TabIndex = 32;
-            // 
-            // pictureBox7
-            // 
-            this.pictureBox7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox7.Image = global::Snake.Properties.Resources.logo_snake;
-            this.pictureBox7.Location = new System.Drawing.Point(1120, 7);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(197, 84);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox7.TabIndex = 46;
-            this.pictureBox7.TabStop = false;
-            this.pictureBox7.Click += new System.EventHandler(this.pictureBox7_Click);
             // 
             // textBox4
             // 
@@ -498,107 +471,6 @@
             this.checkBox10.TabIndex = 32;
             this.checkBox10.UseVisualStyleBackColor = false;
             this.checkBox10.CheckedChanged += new System.EventHandler(this.checkBox10_CheckedChanged);
-            // 
-            // pbColorSnakeFour
-            // 
-            this.pbColorSnakeFour.AccessibleName = "4";
-            this.pbColorSnakeFour.BackColor = System.Drawing.Color.Blue;
-            this.pbColorSnakeFour.Enabled = false;
-            this.pbColorSnakeFour.Location = new System.Drawing.Point(882, 21);
-            this.pbColorSnakeFour.Name = "pbColorSnakeFour";
-            this.pbColorSnakeFour.Size = new System.Drawing.Size(154, 54);
-            this.pbColorSnakeFour.TabIndex = 29;
-            this.pbColorSnakeFour.TabStop = false;
-            // 
-            // pbColorSnakeThree
-            // 
-            this.pbColorSnakeThree.AccessibleName = "3";
-            this.pbColorSnakeThree.BackColor = System.Drawing.Color.Lime;
-            this.pbColorSnakeThree.Enabled = false;
-            this.pbColorSnakeThree.Location = new System.Drawing.Point(592, 21);
-            this.pbColorSnakeThree.Name = "pbColorSnakeThree";
-            this.pbColorSnakeThree.Size = new System.Drawing.Size(154, 54);
-            this.pbColorSnakeThree.TabIndex = 28;
-            this.pbColorSnakeThree.TabStop = false;
-            // 
-            // pbColorSnakeTwo
-            // 
-            this.pbColorSnakeTwo.AccessibleName = "2";
-            this.pbColorSnakeTwo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.pbColorSnakeTwo.Enabled = false;
-            this.pbColorSnakeTwo.Location = new System.Drawing.Point(317, 20);
-            this.pbColorSnakeTwo.Name = "pbColorSnakeTwo";
-            this.pbColorSnakeTwo.Size = new System.Drawing.Size(154, 52);
-            this.pbColorSnakeTwo.TabIndex = 27;
-            this.pbColorSnakeTwo.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.AccessibleName = "1";
-            this.pictureBox4.BackColor = System.Drawing.Color.Blue;
-            this.pictureBox4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox4.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
-            this.pictureBox4.Location = new System.Drawing.Point(1036, 21);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(64, 53);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox4.TabIndex = 30;
-            this.pictureBox4.TabStop = false;
-            this.pictureBox4.Click += new System.EventHandler(this.pbColorSnakeFour_Click);
-            // 
-            // pbColorSnakeOne
-            // 
-            this.pbColorSnakeOne.AccessibleName = "1";
-            this.pbColorSnakeOne.BackColor = System.Drawing.Color.Gold;
-            this.pbColorSnakeOne.Enabled = false;
-            this.pbColorSnakeOne.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
-            this.pbColorSnakeOne.Location = new System.Drawing.Point(37, 20);
-            this.pbColorSnakeOne.Name = "pbColorSnakeOne";
-            this.pbColorSnakeOne.Size = new System.Drawing.Size(154, 53);
-            this.pbColorSnakeOne.TabIndex = 17;
-            this.pbColorSnakeOne.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.AccessibleName = "1";
-            this.pictureBox3.BackColor = System.Drawing.Color.Lime;
-            this.pictureBox3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox3.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
-            this.pictureBox3.Location = new System.Drawing.Point(747, 21);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(61, 54);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 29;
-            this.pictureBox3.TabStop = false;
-            this.pictureBox3.Click += new System.EventHandler(this.pbColorSnakeThree_Click);
-            // 
-            // config_1
-            // 
-            this.config_1.AccessibleName = "1";
-            this.config_1.BackColor = System.Drawing.Color.Gold;
-            this.config_1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.config_1.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
-            this.config_1.Location = new System.Drawing.Point(191, 19);
-            this.config_1.Name = "config_1";
-            this.config_1.Size = new System.Drawing.Size(51, 54);
-            this.config_1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.config_1.TabIndex = 17;
-            this.config_1.TabStop = false;
-            this.config_1.Click += new System.EventHandler(this.pbColorSnakeOne_Click);
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.AccessibleName = "1";
-            this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.pictureBox2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox2.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
-            this.pictureBox2.Location = new System.Drawing.Point(470, 20);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(58, 52);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 28;
-            this.pictureBox2.TabStop = false;
-            this.pictureBox2.Click += new System.EventHandler(this.pbColorSnakeTwo_Click);
             // 
             // panel4
             // 
@@ -938,6 +810,134 @@
             this.pictureBox5.TabStop = false;
             this.pictureBox5.Click += new System.EventHandler(this.button1_Click_1);
             // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox7.Image = global::Snake.Properties.Resources.logo_snake;
+            this.pictureBox7.Location = new System.Drawing.Point(1120, 7);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(197, 84);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox7.TabIndex = 46;
+            this.pictureBox7.TabStop = false;
+            this.pictureBox7.Click += new System.EventHandler(this.pictureBox7_Click);
+            // 
+            // pbColorSnakeFour
+            // 
+            this.pbColorSnakeFour.AccessibleName = "4";
+            this.pbColorSnakeFour.BackColor = System.Drawing.Color.Blue;
+            this.pbColorSnakeFour.Enabled = false;
+            this.pbColorSnakeFour.Location = new System.Drawing.Point(882, 21);
+            this.pbColorSnakeFour.Name = "pbColorSnakeFour";
+            this.pbColorSnakeFour.Size = new System.Drawing.Size(154, 54);
+            this.pbColorSnakeFour.TabIndex = 29;
+            this.pbColorSnakeFour.TabStop = false;
+            // 
+            // pbColorSnakeThree
+            // 
+            this.pbColorSnakeThree.AccessibleName = "3";
+            this.pbColorSnakeThree.BackColor = System.Drawing.Color.Lime;
+            this.pbColorSnakeThree.Enabled = false;
+            this.pbColorSnakeThree.Location = new System.Drawing.Point(592, 21);
+            this.pbColorSnakeThree.Name = "pbColorSnakeThree";
+            this.pbColorSnakeThree.Size = new System.Drawing.Size(154, 54);
+            this.pbColorSnakeThree.TabIndex = 28;
+            this.pbColorSnakeThree.TabStop = false;
+            // 
+            // pbColorSnakeTwo
+            // 
+            this.pbColorSnakeTwo.AccessibleName = "2";
+            this.pbColorSnakeTwo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.pbColorSnakeTwo.Enabled = false;
+            this.pbColorSnakeTwo.Location = new System.Drawing.Point(317, 20);
+            this.pbColorSnakeTwo.Name = "pbColorSnakeTwo";
+            this.pbColorSnakeTwo.Size = new System.Drawing.Size(154, 52);
+            this.pbColorSnakeTwo.TabIndex = 27;
+            this.pbColorSnakeTwo.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.AccessibleName = "1";
+            this.pictureBox4.BackColor = System.Drawing.Color.Blue;
+            this.pictureBox4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox4.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
+            this.pictureBox4.Location = new System.Drawing.Point(1036, 21);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(64, 53);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox4.TabIndex = 30;
+            this.pictureBox4.TabStop = false;
+            this.pictureBox4.Click += new System.EventHandler(this.pbColorSnakeFour_Click);
+            // 
+            // pbColorSnakeOne
+            // 
+            this.pbColorSnakeOne.AccessibleName = "1";
+            this.pbColorSnakeOne.BackColor = System.Drawing.Color.Gold;
+            this.pbColorSnakeOne.Enabled = false;
+            this.pbColorSnakeOne.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
+            this.pbColorSnakeOne.Location = new System.Drawing.Point(37, 20);
+            this.pbColorSnakeOne.Name = "pbColorSnakeOne";
+            this.pbColorSnakeOne.Size = new System.Drawing.Size(154, 53);
+            this.pbColorSnakeOne.TabIndex = 17;
+            this.pbColorSnakeOne.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.AccessibleName = "1";
+            this.pictureBox3.BackColor = System.Drawing.Color.Lime;
+            this.pictureBox3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox3.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
+            this.pictureBox3.Location = new System.Drawing.Point(747, 21);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(61, 54);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox3.TabIndex = 29;
+            this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pbColorSnakeThree_Click);
+            // 
+            // config_1
+            // 
+            this.config_1.AccessibleName = "1";
+            this.config_1.BackColor = System.Drawing.Color.Gold;
+            this.config_1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.config_1.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
+            this.config_1.Location = new System.Drawing.Point(191, 19);
+            this.config_1.Name = "config_1";
+            this.config_1.Size = new System.Drawing.Size(51, 54);
+            this.config_1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.config_1.TabIndex = 17;
+            this.config_1.TabStop = false;
+            this.config_1.Click += new System.EventHandler(this.pbColorSnakeOne_Click);
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.AccessibleName = "1";
+            this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.pictureBox2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox2.Image = global::Snake.Properties.Resources.botones_snake_config_juga;
+            this.pictureBox2.Location = new System.Drawing.Point(470, 20);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(58, 52);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 28;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pbColorSnakeTwo_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox1.BackgroundImage = global::Snake.Properties.Resources.grassNewBackground1;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1141, 523);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            this.pictureBox1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseClick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -954,18 +954,8 @@
             this.pnlSnakeOptions.ResumeLayout(false);
             this.pnlSnakeOptions.PerformLayout();
             this.panel_juego.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel_jugadores.ResumeLayout(false);
             this.panel_jugadores.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeFour)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeThree)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeTwo)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeOne)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.config_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.panel_score.ResumeLayout(false);
             this.uI_ShadowPanel3.ResumeLayout(false);
             this.uI_ShadowPanel3.PerformLayout();
@@ -975,6 +965,16 @@
             this.uI_ShadowPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeFour)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeThree)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeTwo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbColorSnakeOne)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.config_1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }

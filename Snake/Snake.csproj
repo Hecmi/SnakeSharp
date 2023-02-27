@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Snake</RootNamespace>
     <AssemblyName>Snake</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
@@ -276,6 +276,7 @@
     <None Include="Resources\botones_snake_config.png" />
     <None Include="Resources\logo-snake.png" />
     <None Include="Resources\91508615924wmsyfjmbtmwmmk8jom6kr60e8dmzq6alqg4ll8tb1oqtyhehwkani0btlrjrc1pxl8e0cejq7mzljiado7xistlkrz5hc0rwlgon.png" />
+    <None Include="Resources\1botones_snake.png" />
     <Content Include="snake.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
